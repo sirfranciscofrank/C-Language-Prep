@@ -29,7 +29,7 @@ abstractions.
 This is **prep for the bootcamp at KMITL** — sharpening the fundamentals now
 so I hit the ground running, not crawling.
 
-## 🛠️ The Arsenal
+## 🛠️ The Tool
 
 | Tool         | Choice          |
 | ------------ | --------------- |
